@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geomi</string>
+      <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyChOxL948qP0PWc4U_CUGCsWIfz_9DmBQw</string>
+</resources>

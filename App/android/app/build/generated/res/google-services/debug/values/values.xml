@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">210245321231-65tn7hkc95n0n2vcr02atd6fr1j2rrhr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">210245321231</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMsbaFN3Fdl80R0U20HK8JsH-5fPb_GTo</string>
+    <string name="google_app_id" translatable="false">1:210245321231:android:5e814dd8af7895af02597a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMsbaFN3Fdl80R0U20HK8JsH-5fPb_GTo</string>
+    <string name="google_storage_bucket" translatable="false">geomi-a5339.appspot.com</string>
+    <string name="project_id" translatable="false">geomi-a5339</string>
+</resources>
